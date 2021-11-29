@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845484821866",
+    "project_id": "plataforma-enci",
+    "storage_bucket": "plataforma-enci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845484821866:android:dc7a5e8341961574b06913",
+        "android_client_info": {
+          "package_name": "com.plataform.enci4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845484821866-40k6echn9jg3hkfhn8qpiff928tkmr2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcHYPlPrXFvbV81ql8zaqmENp9LS2fzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845484821866-40k6echn9jg3hkfhn8qpiff928tkmr2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
