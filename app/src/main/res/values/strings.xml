@@ -70,5 +70,7 @@
     <string name="login_failed">"Login failed"</string>
     <string name="enter">Entrar</string>
     <string name="signIn">Não tem uma conta? Crie aqui.</string>
+    <string name="Lema_do_PEnCI">O Ensino por Investigação na ponta dos dedos.</string>
+    <string name="author">Criação e produção Augusto Othon Profbio/UECE</string>
 
 </resources>
