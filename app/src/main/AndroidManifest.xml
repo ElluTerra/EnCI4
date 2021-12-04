@@ -16,10 +16,6 @@
         <activity android:name=".seventhyActivity" />
         <activity android:name=".fiftyActivity" />
         <activity android:name=".FourthyActivity" />
-        <activity
-            android:name=".Activity_fourthy"
-            android:label="@string/title_activity_fourthy"
-            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ThirtyActivity" />
         <activity android:name=".IdentActivity" />
         <activity android:name=".MainActivity">
